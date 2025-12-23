@@ -1,4 +1,8 @@
+# Deep Learning Labs: From MLP to CNN with PyTorch 🧠
 
+![Python](https://img.shields.io/badge/Python-3.x-blue?style=flat&logo=python)
+![PyTorch](https://img.shields.io/badge/PyTorch-Deep%20Learning-red?style=flat&logo=pytorch)
+![Status](https://img.shields.io/badge/Status-Completed-success)
 
 ## 📖 Overview
 
